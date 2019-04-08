@@ -1,0 +1,3 @@
+[submodule "git-comand-test"]
+	path = git-comand-test
+	url = git@git.pmone.vip:dev/product-platform/app/git-comand-test.git
